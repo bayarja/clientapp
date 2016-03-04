@@ -1,0 +1,6 @@
+# A sample Gemfile
+source 'https://rubygems.org'
+
+gem 'rest-client', '~> 1.8'
+gem 'jwt'
+gem 'pry'
